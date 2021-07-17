@@ -1,1 +1,1 @@
-# MasteryingGoLang
+# MasteringGoLang
